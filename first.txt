@@ -8,4 +8,29 @@ Editing this let's see what happens.
 Thank You!
 Have Fun🙃
 
+
+
+Let's add some more stuffs. Let's add my New Year Milestones for Learning new skills.
+
+Stuffs to Achieve this Year:
+1. C Language
+2. C++
+3. HTML 
+4. CSS
+5. JavaScript + three.js + typescripter + springs
+6. Bootstrap 
+7. React
+8. Git & GitHub // Tho* this isn't a skill, added cz I have to learn this this Year.
+9. MongoDB
+10.Ruby on Rails
+11.Graphic Designing
+12.Photshop
+13.Video Editting
+14.Film-Making
+15.Li'll bit Sketching also
+16.Start Adruino
+17.Get the hang of ML & AI
+18.Deep Dive into Electronics things
+
 Added extra Features on the Sibbling's Branch
+
